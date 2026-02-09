@@ -10,6 +10,9 @@ enum class ImageType {
     GATE_CLOSE = 2,
     CHEST_OPEN = 3,
     CHEST_CLOSE = 4,
+    PERSON = 5,
+    NPC_1 = 6,
+    NPC_2 = 7,
     NUM
 };
 
